@@ -19,5 +19,6 @@ I'm a performance engineer with an interest in DevOps. [CV](https://github.com/j
 ## Personal
 
 * ![Bash](assets/bash-small.png) ![Python](assets/python-small.png) ![Lua](assets/lua-small.png) [toolbelt](https://github.com/josefilipeferreira/toolbelt) Collection of scripts, dotfiles and self-created guides that follow me on all of my Linux adventures
+* ![Docker](assets/docker-small.png) [suitcase](https://github.com/josefilipeferreira/suitcase): Manage my Home Lab using Containerized Services and Docker-compose
 * ![C](assets/C-small.png) [lemonbar](https://github.com/JoseFilipeFerreira/thonkbar): minimalist block based lemonbar wrapper (published to the AUR)
 * ![Haskell](assets/haskell-small.png): [Haskhell3D](https://github.com/josefilipeferreira/haskhell3d): proof of concept Doom-like 3D shooter in a engine that was never meant to support it (done as a challenge to prove it was possible)
