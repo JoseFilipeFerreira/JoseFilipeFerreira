@@ -4,9 +4,6 @@ I'm a Performance Engineer with a passion for DevOps and Embedded. [CV](https://
 
 I'm currently working as an Embedded Software Engineer at Strypes Technical Software.
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=josefilipeferreira&show_icons=true&count_private=true&theme=github_dark) ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josefilipeferreira&hide=roff&theme=github_dark&layout=compact&langs_count=8)
-
-
 # Projects
 
 ## University
